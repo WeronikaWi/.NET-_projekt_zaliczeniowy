@@ -1,0 +1,10 @@
+C:\Users\weron\OneDrive\Pulpit\Studia 2\Semestr 4\Programowanie\DwarfGame\DwarfGame\bin\Debug\DwarfGame.exe.config
+C:\Users\weron\OneDrive\Pulpit\Studia 2\Semestr 4\Programowanie\DwarfGame\DwarfGame\bin\Debug\DwarfGame.exe
+C:\Users\weron\OneDrive\Pulpit\Studia 2\Semestr 4\Programowanie\DwarfGame\DwarfGame\bin\Debug\DwarfGame.pdb
+C:\Users\weron\OneDrive\Pulpit\Studia 2\Semestr 4\Programowanie\DwarfGame\DwarfGame\obj\Debug\DwarfGame.csprojAssemblyReference.cache
+C:\Users\weron\OneDrive\Pulpit\Studia 2\Semestr 4\Programowanie\DwarfGame\DwarfGame\obj\Debug\DwarfGame.Form1.resources
+C:\Users\weron\OneDrive\Pulpit\Studia 2\Semestr 4\Programowanie\DwarfGame\DwarfGame\obj\Debug\DwarfGame.Properties.Resources.resources
+C:\Users\weron\OneDrive\Pulpit\Studia 2\Semestr 4\Programowanie\DwarfGame\DwarfGame\obj\Debug\DwarfGame.csproj.GenerateResource.cache
+C:\Users\weron\OneDrive\Pulpit\Studia 2\Semestr 4\Programowanie\DwarfGame\DwarfGame\obj\Debug\DwarfGame.csproj.CoreCompileInputs.cache
+C:\Users\weron\OneDrive\Pulpit\Studia 2\Semestr 4\Programowanie\DwarfGame\DwarfGame\obj\Debug\DwarfGame.exe
+C:\Users\weron\OneDrive\Pulpit\Studia 2\Semestr 4\Programowanie\DwarfGame\DwarfGame\obj\Debug\DwarfGame.pdb
